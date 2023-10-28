@@ -4,7 +4,7 @@
   "description": "This project is a starter template for web development, configured with Webpack 5. It incorporates several useful features to streamline the development process and optimize web projects.",
   "main": "index.js",
   "scripts": {
-    "build": "webpack --mode production"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
